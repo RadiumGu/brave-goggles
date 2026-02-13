@@ -1,0 +1,22 @@
+! name: Finance Focus
+! description: Prioritize financial news, analysis, and official sources
+! author: RadiumGu
+
+! Boost financial news and analysis
+$boost=10,site=bloomberg.com
+$boost=10,site=reuters.com
+$boost=9,site=wsj.com
+$boost=9,site=ft.com
+$boost=8,site=cnbc.com
+$boost=8,site=finance.yahoo.com
+$boost=8,site=seekingalpha.com
+$boost=7,site=investing.com
+$boost=7,site=marketwatch.com
+$boost=6,site=xueqiu.com
+$boost=6,site=eastmoney.com
+$boost=5,site=sina.com.cn
+$boost=5,site=163.com
+
+! Discard low-quality or irrelevant
+$discard,site=pinterest.com
+$discard,site=quora.com
