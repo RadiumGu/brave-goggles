@@ -3,12 +3,12 @@
 ! author: OpenClaw
 
 ! Boost official documentation and high-quality sources
-$boost=10,site=github.com
-$boost=10,site=stackoverflow.com
+$boost=10,site=docs.aws.amazon.com
+$boost=9,site=github.com
+$boost=9,site=stackoverflow.com
 $boost=8,site=docs.python.org
 $boost=8,site=developer.mozilla.org
 $boost=8,site=kubernetes.io
-$boost=8,site=docs.aws.amazon.com
 $boost=7,site=cloud.google.com
 $boost=7,site=learn.microsoft.com
 $boost=6,site=arxiv.org
